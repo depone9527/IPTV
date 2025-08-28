@@ -9,16 +9,12 @@ https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/b4ae618fdd5191947c45c2
 https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1,Bloomberg Middle
 https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1,Bloomberg Middle
-https://jmp2.uk/sam-INBA5100021WP.m3u8
-#EXTINF:-1,Bloomberg Originals
-https://jmp2.uk/sam-INBA5100022O4.m3u8
 #EXTINF:-1,Bloomberg Quicktake
 https://bloomberg-quicktake-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Bloomberg Quicktake
-https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Bloomberg Quicktake
 https://bloomberg-quicktake-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,ABC East
+https://fl3.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1,Al Jazeera
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 #EXTINF:-1,Al Jazeera
@@ -27,8 +23,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1,AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
-#EXTINF:-1,Animation+
-https://jmp2.uk/sam-CA400003FQ.m3u8
 #EXTINF:-1,Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1,Aspire TV
@@ -39,8 +33,6 @@ https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 #EXTINF:-1,BBC Top Gear
 https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
-#EXTINF:-1,BEIN Sports Xtra
-https://jmp2.uk/sam-CABA8000043F.m3u8
 #EXTINF:-1,BET x Tyler Perry Comedy
 https://linear-867.frequency.stream/dist/tcltv/867/hls/master/playlist.m3u8
 #EXTINF:-1,BET x Tyler Perry Drama
@@ -49,18 +41,14 @@ https://linear-866.frequency.stream/dist/tcltv/866/hls/master/playlist.m3u8
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1,CNN
-https://jmp2.uk/sam-GBBD8000016N.m3u8
+#EXTINF:-1,Comet
+https://fl3.moveonjoy.com/COMET/index.m3u8
 #EXTINF:-1,Craftsy TV
 https://linear-492.frequency.stream/dist/tcltv/492/hls/master/playlist.m3u8
-#EXTINF:-1,CTV News
-https://jmp2.uk/sam-CA1400004AE.m3u8
 #EXTINF:-1,CW Forever
 https://linear-850.frequency.stream/dist/tcltv/850/hls/master/playlist.m3u8
 #EXTINF:-1,CW Gold
 https://linear-851.frequency.stream/dist/tcltv/851/hls/master/playlist.m3u8
-#EXTINF:-1,FOX Sports
-https://jmp2.uk/sam-US2700001QY.m3u8
 #EXTINF:-1,France 24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1,GB News
@@ -93,20 +81,16 @@ https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,MTRSPT1
 https://amg02873-kravemedia-mtrspt1-tcl-ideo-rqk3n.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-tcl-ideo/playlist.m3u8
-#EXTINF:-1,Mytime
+#EXTINF:-1,MyTime Movie Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
 #EXTINF:-1,MyTime Movie Network
 https://mytime-tcl.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1,National Lampoon
 https://linear-758.frequency.stream/dist/tcltv/758/hls/master/playlist.m3u8
-#EXTINF:-1,NBC News Now
-https://jmp2.uk/sam-GBBB1500004LG.m3u8
-#EXTINF:-1,NBC Sports
-https://jmp2.uk/sam-USBD420002446.m3u8
 #EXTINF:-1,Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1,NEWSMAX2
-https://jmp2.uk/sam-USBA300028QU.m3u8
+#EXTINF:-1,ONE 31
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 #EXTINF:-1,Outdoor America
 https://d3fmqi91qduj7.cloudfront.net/11401/88814547/hls/playlist.m3u8?ads.xumo_channelId=88814547a&ads.xumo_streamId=88814547
 #EXTINF:-1,Pac-12 Insider
@@ -127,14 +111,8 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1,SHG Living
 https://na.linear.zype.com/9e977645-766d-47bb-b85c-729fff09f509/50fc886f-24eb-4386-a49c-a33dcf789655-tcl/live.m3u8
-#EXTINF:-1,Showtime
-https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1,Showtime Women
 https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1,Sky News
-https://jmp2.uk/sam-USBB52000022Q.m3u8
-#EXTINF:-1,SportsGrid
-https://jmp2.uk/sam-USBA300031OT.m3u8
 #EXTINF:-1,Startalk TV
 https://linear-770.frequency.stream/dist/tcltv/770/hls/master/playlist.m3u8
 #EXTINF:-1,Sundance TV
@@ -157,7 +135,7 @@ https://fl3.moveonjoy.com/Cowboy_Channel/index.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Travel XP
+#EXTINF:-1,Travelxp
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1,Travelxp
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/4300.m3u8
@@ -189,14 +167,8 @@ https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1,ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1,ABC East
-https://fl3.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1,ACC Network
 https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1,BBC America
-https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1,BBC Kids
-https://jmp2.uk/sam-US800003JM.m3u8
 #EXTINF:-1,BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1,BBC WORLD
@@ -225,10 +197,6 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
 https://fl3.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1,Comedy Central
 https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1,Comet
-https://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1,Cozi TV
-https://fl3.moveonjoy.com/COZI_TV/index.m3u8
 #EXTINF:-1,Crave 2
 https://fl3.moveonjoy.com/CRAVE_2/index.m3u8
 #EXTINF:-1,Crave 4
@@ -247,8 +215,6 @@ https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 https://fl3.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1,FanDuel Sports Network
 https://fl3.moveonjoy.com/PAC_12/index.m3u8
-#EXTINF:-1,FIFA+
-https://jmp2.uk/sam-CABD1200008JG.m3u8
 #EXTINF:-1,FOX 5 New York
 https://fl3.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1,FOX Business Network
@@ -265,8 +231,6 @@ https://fl3.moveonjoy.com/FXX/index.m3u8
 https://fl3.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1,GoUSA TV
 https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,GoUSA TV
-https://jmp2.uk/sam-INBA5100025YE.m3u8
 #EXTINF:-1,Grit
 https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
 #EXTINF:-1,Hallmark Channel
@@ -279,8 +243,6 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/chunkl
 https://fl3.moveonjoy.com/ION_Plus/index.m3u8
 #EXTINF:-1,ION TV
 https://fl3.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1,Kidoodle.TV
-https://jmp2.uk/sam-CAAJ34000122Z.m3u8
 #EXTINF:-1,Lifetime
 https://fl3.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1,Lifetime Movies
@@ -321,12 +283,8 @@ https://fl3.moveonjoy.com/NICK_JR/index.m3u8
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1,Nicktoons
 https://fl3.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1,ONE 31
-https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 #EXTINF:-1,Outdoor Channel
 https://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1,OuterMax
-https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1,Outside TV
 https://fl3.moveonjoy.com/OUTSIDE_TV/index.m3u8
 #EXTINF:-1,Oxygen
@@ -343,6 +301,8 @@ https://fl3.moveonjoy.com/REVOLT/index.m3u8
 https://stream3.shopch.jp/httporiginlivech1/ch1.stream_800p/chunklist.m3u8
 #EXTINF:-1,Shopping NT
 https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1,Showtime
+https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1,Showtime 2
 https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1,Showtime Next
@@ -387,3 +347,7 @@ https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/chunklist.m3u8
 https://fl3.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1,Willow
 https://fl3.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+#EXTINF:-1,BBC America
+https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1,Cozi TV
+https://fl3.moveonjoy.com/COZI_TV/index.m3u8
