@@ -1,0 +1,389 @@
+#EXTM3U
+#EXTINF:-1,Bloomberg Small
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1,Bloomberg Small
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1,Bloomberg Middle
+https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/b4ae618fdd5191947c45c2251a7607f3.m3u8
+#EXTINF:-1,Bloomberg Middle
+https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg Middle
+https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg Middle
+https://jmp2.uk/sam-INBA5100021WP.m3u8
+#EXTINF:-1,Bloomberg Originals
+https://jmp2.uk/sam-INBA5100022O4.m3u8
+#EXTINF:-1,Bloomberg Quicktake
+https://bloomberg-quicktake-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg Quicktake
+https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg Quicktake
+https://bloomberg-quicktake-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Al Jazeera
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+#EXTINF:-1,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,AMC
+https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1,AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:-1,Animation+
+https://jmp2.uk/sam-CA400003FQ.m3u8
+#EXTINF:-1,Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1,Aspire TV
+https://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1,BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1,BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
+#EXTINF:-1,BBC Top Gear
+https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
+#EXTINF:-1,BEIN Sports Xtra
+https://jmp2.uk/sam-CABA8000043F.m3u8
+#EXTINF:-1,BET x Tyler Perry Comedy
+https://linear-867.frequency.stream/dist/tcltv/867/hls/master/playlist.m3u8
+#EXTINF:-1,BET x Tyler Perry Drama
+https://linear-866.frequency.stream/dist/tcltv/866/hls/master/playlist.m3u8
+#EXTINF:-1,CBN
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,CNN
+https://jmp2.uk/sam-GBBD8000016N.m3u8
+#EXTINF:-1,Craftsy TV
+https://linear-492.frequency.stream/dist/tcltv/492/hls/master/playlist.m3u8
+#EXTINF:-1,CTV News
+https://jmp2.uk/sam-CA1400004AE.m3u8
+#EXTINF:-1,CW Forever
+https://linear-850.frequency.stream/dist/tcltv/850/hls/master/playlist.m3u8
+#EXTINF:-1,CW Gold
+https://linear-851.frequency.stream/dist/tcltv/851/hls/master/playlist.m3u8
+#EXTINF:-1,FOX Sports
+https://jmp2.uk/sam-US2700001QY.m3u8
+#EXTINF:-1,France 24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1,GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Global Fashion Channel
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1,H2O TV
+https://linear-738.frequency.stream/dist/tcltv/738/hls/master/playlist.m3u8
+#EXTINF:-1,HSE24 Extra Germany
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1,HSE24 Germany
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1,iFood Live
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5390
+#EXTINF:-1,INSP
+https://fl3.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1,JCN TV KR
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+#EXTINF:-1,KIDS TV
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/4300.m3u8
+#EXTINF:-1,Kids TV
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1,MGM+Marquee
+https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1,Miramax Movies
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+#EXTINF:-1,MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,MTRSPT1
+https://amg02873-kravemedia-mtrspt1-tcl-ideo-rqk3n.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Mytime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
+#EXTINF:-1,MyTime Movie Network
+https://mytime-tcl.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1,National Lampoon
+https://linear-758.frequency.stream/dist/tcltv/758/hls/master/playlist.m3u8
+#EXTINF:-1,NBC News Now
+https://jmp2.uk/sam-GBBB1500004LG.m3u8
+#EXTINF:-1,NBC Sports
+https://jmp2.uk/sam-USBD420002446.m3u8
+#EXTINF:-1,Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,NEWSMAX2
+https://jmp2.uk/sam-USBA300028QU.m3u8
+#EXTINF:-1,Outdoor America
+https://d3fmqi91qduj7.cloudfront.net/11401/88814547/hls/playlist.m3u8?ads.xumo_channelId=88814547a&ads.xumo_streamId=88814547
+#EXTINF:-1,Pac-12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Peer TV South Tyrol
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1,Persiana 4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Pulse
+https://lightning-pulse-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1,Pursuit UP
+https://linear-205.frequency.stream/dist/tcltv/205/hls/master/playlist.m3u8
+#EXTINF:-1,ROMCOM K-Drama
+https://ee75dd7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfUm9tQ29tS0RyYW1hX0hMUw/playlist.m3u8
+#EXTINF:-1,RT
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1,RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1,SHG Living
+https://na.linear.zype.com/9e977645-766d-47bb-b85c-729fff09f509/50fc886f-24eb-4386-a49c-a33dcf789655-tcl/live.m3u8
+#EXTINF:-1,Showtime
+https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1,Showtime Women
+https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1,Sky News
+https://jmp2.uk/sam-USBB52000022Q.m3u8
+#EXTINF:-1,SportsGrid
+https://jmp2.uk/sam-USBA300031OT.m3u8
+#EXTINF:-1,Startalk TV
+https://linear-770.frequency.stream/dist/tcltv/770/hls/master/playlist.m3u8
+#EXTINF:-1,Sundance TV
+https://fl3.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1,Taiwan Plus TV
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1,Taiwan Plus TV
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_0/chunklist.m3u8
+#EXTINF:-1,TalkTV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+#EXTINF:-1,Tastemade
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-lgus/playlist.m3u8
+#EXTINF:-1,Tastemade
+https://tastemade-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1,TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1,The Cowboy Channel
+https://fl3.moveonjoy.com/Cowboy_Channel/index.m3u8
+#EXTINF:-1,Trace Sports Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Travel XP
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Travelxp
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/4300.m3u8
+#EXTINF:-1,VIVO TV
+https://stream.vivotv.uy/hls/stream.m3u8
+#EXTINF:-1,WBC TV
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/chunklist_w916069166.m3u8
+#EXTINF:-1,We TV
+https://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1,Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1,Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+#EXTINF:-1,Wion News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1,World Fishing Network
+https://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1,World Poker Tour
+https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+#EXTINF:-1,Xplore TV
+https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8
+#EXTINF:-1,Bloomberg(720P)
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1,Bloomberg(720P)
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1,Bloomberg(720P)
+https://www.bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:-1,Bloomberg(720P)
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1,ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1,ABC East
+https://fl3.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1,ACC Network
+https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1,BBC America
+https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1,BBC Kids
+https://jmp2.uk/sam-US800003JM.m3u8
+#EXTINF:-1,BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1,BBC WORLD
+https://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1,BET
+https://fl3.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1,BET Her
+https://fl5.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1,Big Ten Network
+https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1,Bravo
+https://fl3.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1,Buzzr
+https://fl3.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1,CBS
+https://fl3.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1,CBS Sports Network USA
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1,Cleo TV
+https://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1,CMT
+https://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1,CMTV
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
+#EXTINF:-1,CNBC
+https://fl3.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1,Comedy Central
+https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1,Comet
+https://fl3.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1,Cozi TV
+https://fl3.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1,Crave 2
+https://fl3.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1,Crave 4
+https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1,Disney Channel
+https://fl3.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1,Disney Junior
+https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1,Disney XD
+https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1,E!
+https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1,ESPN_News
+https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1,ESPN_U
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1,FanDuel Sports Network
+https://fl3.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1,FIFA+
+https://jmp2.uk/sam-CABD1200008JG.m3u8
+#EXTINF:-1,FOX 5 New York
+https://fl3.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1,FOX Business Network
+https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1,FOX News Channel
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1,Freeform
+https://fl3.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1,FXM
+https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1,FXX
+https://fl3.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1,FYI
+https://fl3.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1,GoUSA TV
+https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,GoUSA TV
+https://jmp2.uk/sam-INBA5100025YE.m3u8
+#EXTINF:-1,Grit
+https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1,Hallmark Channel
+https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1,Hallmark Movies & Mysteries
+https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1,Hyundai Home Shopping Plus
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/chunklist_b1000000.m3u8
+#EXTINF:-1,ION Plus
+https://fl3.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1,ION TV
+https://fl3.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1,Kidoodle.TV
+https://jmp2.uk/sam-CAAJ34000122Z.m3u8
+#EXTINF:-1,Lifetime
+https://fl3.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1,Lifetime Movies
+https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1,LiveNow from Fox
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+#EXTINF:-1,Lotte Home Shopping
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+#EXTINF:-1,MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1,MBC
+https://vod.mpmbc.co.kr/a_live/25246741/ch001/playlist.m3u8
+#EXTINF:-1,Military History
+https://fl3.moveonjoy.com/Military_History/index.m3u8
+#EXTINF:-1,MLB Network
+https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1,MSG
+https://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1,MTV
+https://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1,MTV Live
+https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1,MTV Live
+https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1,National Geographic
+https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1,National Geographic Wild
+https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1,NBA TV
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1,NHK World
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+#EXTINF:-1,NHL Network
+https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1,Nick Jr.
+https://fl3.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1,Nick Jr.
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1,Nicktoons
+https://fl3.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1,ONE 31
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
+#EXTINF:-1,Outdoor Channel
+https://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1,OuterMax
+https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1,Outside TV
+https://fl3.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1,Oxygen
+https://fl3.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1,Paramount Network
+https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1,QVC
+https://fl3.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1,QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1,Revolt
+https://fl3.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1,Shop Channel
+https://stream3.shopch.jp/httporiginlivech1/ch1.stream_800p/chunklist.m3u8
+#EXTINF:-1,Shopping NT
+https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1,Showtime 2
+https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1,Showtime Next
+https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1,Smithsonian Channel
+https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1,Sony Channel
+https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1,Sony Novelas LG
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sportsman Channel
+https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1,SportsNet New York
+https://fl3.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1,Start TV
+https://fl3.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1,Starz
+https://fl3.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1,Starz Encore Classic
+https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1,Syfy
+https://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1,TeenNick
+https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
+#EXTINF:-1,Tennis Channel
+https://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1,TSN5
+https://fl3.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1,TV One
+https://fl3.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1,Up TV
+https://fl3.moveonjoy.com/Up_Tv/index.m3u8
+#EXTINF:-1,USA Network
+https://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1,VICE SPORTS
+https://fl3.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1,W Network
+https://fl3.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1,W Shopping
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/chunklist.m3u8
+#EXTINF:-1,WGN-DT1
+https://fl3.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1,Willow
+https://fl3.moveonjoy.com/WILLOW_CRICKET/index.m3u8
